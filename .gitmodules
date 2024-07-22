@@ -1,0 +1,3 @@
+[submodule "pythonProject"]
+	path = pythonProject
+	url = https://github.com/wonbinstarzyj/hello.git
